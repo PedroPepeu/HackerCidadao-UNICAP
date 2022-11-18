@@ -10,4 +10,4 @@ data = link
 img = qc.make(data)
 
 # Saving as an image file
-img.save('MyQRCode1.png')
+img.save('QRCodeMaker/MyQRCode1.png')
