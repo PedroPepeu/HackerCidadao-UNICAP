@@ -1,0 +1,56 @@
+body{
+    background-image: url("/images/fundo_de_tela.png");
+}
+.botao-scanner{
+    top: 550px;
+    left: 90px;
+    position: absolute;
+  }
+
+.container{
+    display: flex;
+}
+
+img{
+width: 109px;
+height: 108px;
+}
+
+.mapa img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 31px;
+    top: 35px;
+}
+
+.dica img{
+width: 45px;
+height: 45px;  
+position: absolute; 
+left: 225px;
+top: 35px; 
+}
+
+p{
+ text-decoration: solid;
+ color: 421000;
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    top: 200px;
+    position: absolute;
+}
+
+.charada img{
+    width: 200px;
+    height: 60px;
+
+}
+
+.charada{ 
+left: 50px;
+top: 420px;
+position: absolute;
+}

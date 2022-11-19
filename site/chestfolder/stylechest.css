@@ -1,0 +1,84 @@
+body{
+    background-image: url("/images/fundo_de_tela.png");
+}
+.botao-scanner{
+    top: 550px;
+    left: 90px;
+    position: absolute;
+  }
+
+.container{
+    display: flex;
+}
+
+img{
+width: 109px;
+height: 108px;
+}
+
+.mapa img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 31px;
+    top: 35px;
+}
+
+.sanduiche img{
+width: 45px;
+height: 45px;  
+position: absolute; 
+left: 225px;
+top: 35px; 
+}
+
+p{
+ text-decoration: solid;
+ color: 421000;
+}
+
+.victoryText{
+    display: flex;
+    justify-content: center;
+    top: 300px;
+    position: absolute;
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    left: 65px;
+    position: absolute;
+}
+
+.texto p{
+    text-decoration: solid;
+}
+
+.chest img{
+    width: 270px;
+    height: 170px;
+
+}
+
+.chest{ 
+    left: 2px;
+    top: 150px;
+    position: absolute;
+}
+
+.retangle{
+    left: 13px;
+    top: 400px;
+    width: 250px;
+    height: 50px;
+    background-color: #DAAF65;
+    position:absolute
+}
+
+.retangulo-premio{
+    position: relative;
+    display: inline-block;
+}
+
+
